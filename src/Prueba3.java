@@ -1,0 +1,1 @@
+double variable = 5;
